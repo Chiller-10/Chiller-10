@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Suriya
 - 👀 I’m interested in Data Analaytics
-- 🌱 I’m currently learning Python
 
 - 📫 How to reach me -- suriyasmt75@gmail.com
 
